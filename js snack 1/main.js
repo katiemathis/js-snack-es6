@@ -20,6 +20,8 @@ const bici = [
 
 ];
 
+//crea una funzione che calcola la bici che pesa di meno
+
 function biciPiuLeggero(myArrayOfBici) {
     let {peso,nome} = myArrayOfBici[0];
 
